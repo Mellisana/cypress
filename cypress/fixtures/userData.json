@@ -1,0 +1,25 @@
+{
+    "baseURL": "https://petstore.swagger.io/v2/user",
+    "user": {
+      "id": 66,
+      "username": "user1",
+      "firstName": "name1",
+      "lastName": "sname1",
+      "email": "name1@example.com",
+      "password": "12345",
+      "phone": "+79113333333",
+      "userStatus": 0
+    },
+    "updatedUser": {
+      "id": 66,
+      "username": "user2",
+      "firstName": "name2",
+      "lastName": "sname2",
+      "email": "name2@example.com",
+      "password": "123452",
+      "phone": "+791133333332",
+      "userStatus": 0
+    }
+  }
+  
+  
